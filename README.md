@@ -16,12 +16,6 @@ Hasil analisa data menggunakan Mann Kendall Test  dengan tingkat signifikansi 95
 
                        Gambar 3 : plot autocorrelation function (ACF) konsentrasi NO2
 
-Software : jupyter notebook
-
-Kemampuan yang digunakan : analisa statistic menggunakan python
-
-Data : Konsentrasi NO2 menggunakan Sentinel 5P perekaman 2019-2020 yang diolah dengan GEE
-
 Daftar Pustaka : 
 Yue, Sheng., Pilon, P., Phinney, B., dan Cavadias, G.2002. The Influence of Autocorrelation
 on the Ability to Detect Trend in Hydrological Series. Hydrological Processes. 16:
